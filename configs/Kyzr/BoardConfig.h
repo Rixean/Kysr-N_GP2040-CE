@@ -107,7 +107,7 @@
 #define AMBIENT_STATIC_COLOR ANIMATION_COLOR_BLUE
 
 // Custom Kyzr LED parameters
-#define LEDS_CHASE_CYCLE_TIME 5
+//#define LEDS_CHASE_CYCLE_TIME 5
 
 // OLED display settings
 #define HAS_I2C_DISPLAY 1
