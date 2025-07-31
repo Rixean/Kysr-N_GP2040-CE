@@ -144,7 +144,7 @@ we provide a subset of pixels to use as a filter. */
   static std::map<uint32_t, int32_t> times;
   static std::map<uint32_t, RGB> hitColor;    
   absolute_time_t lastUpdateTime = nil_time;
-  uint32_t coolDownTimeInMs = 1000;
+  uint32_t coolDownTimeInMs = 100;
   int64_t updateTimeInMs = 20;
 
 };
