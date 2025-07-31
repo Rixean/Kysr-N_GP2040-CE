@@ -30,7 +30,6 @@
 #define GPIO_PIN_13 GpioAction::BUTTON_PRESS_B4    // B4     | Y      | X       | Triangle | 4      | P2     |
 #define GPIO_PIN_14 GpioAction::BUTTON_PRESS_B3    // B3     | X      | Y       | Square   | 1      | P1     |
 #define GPIO_PIN_15 GpioAction::BUTTON_PRESS_UP    // UP     | UP     | UP      | UP       | UP     | UP     |
-#define GPIO_PIN_17 GpioAction::BUTTON_PRESS_S2    // S2     | Start  | Plus    | Start    | 10     | Start  |
 #define GPIO_PIN_20 GpioAction::BUTTON_PRESS_A1    // A1     | Guide  | Home    | PS       | 13     | ~      |
 #define GPIO_PIN_21 GpioAction::BUTTON_PRESS_A2    // A2     | ~      | Capture | Share    | 14     | ~      |
 
